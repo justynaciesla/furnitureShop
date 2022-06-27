@@ -1,3 +1,7 @@
+ 
+# WORK IN PROGRESS but you can already check first version here: 
+# LIVE: `furniture-shop-react.netlify.app`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

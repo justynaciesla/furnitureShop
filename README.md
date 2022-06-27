@@ -1,6 +1,6 @@
  
 # WORK IN PROGRESS but you can already check first version here: 
-# LIVE: [furniture-shop-react.netlify.app](furniture-shop-react.netlify.app)
+# LIVE: [furniture-shop-react.netlify.app](https://furniture-shop-react.netlify.app)
 
 # Getting Started with Create React App
 
